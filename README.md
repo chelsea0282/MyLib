@@ -1,4 +1,6 @@
 # POCKET LIBRARY 
+Although the design and the backend implementations were done, it could not be integrated into the iOS 
+
 ## initial idea
 
 ### iOS
@@ -8,4 +10,4 @@
 
 ### Design
 
-[design sketch file] (https://github.com/chelsea0282/MyLib-Design)
+[design-sketch-file] (https://github.com/chelsea0282/MyLib-Design)
