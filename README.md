@@ -8,4 +8,4 @@
 
 ### Design
 
-[design sketch file] https://github.com/chelsea0282/MyLib-Design
+[design sketch file] (https://github.com/chelsea0282/MyLib-Design)
